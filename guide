@@ -1,0 +1,8 @@
+git clone https://github.com/YourUsername/kunal-project.git
+cd kunal-project
+
+python -m pip install --upgrade pip
+pip install -r req.txt
+
+
+python main.py
